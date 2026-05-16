@@ -122,3 +122,51 @@ Step 3: Validate Hybrid Identify Synchronization and Functionality
 
 </p>
 <br />
+
+---
+
+## Skills Developed
+
+### Hybrid Identity Management
+
+Gained hands-on experience configuring a hybrid identity environment by integrating on-premises Active Directory with Microsoft Entra ID using Microsoft Entra Connect.
+
+### Active Directory Administration
+
+Worked within Active Directory Domain Services (AD DS) to verify domain users, manage the on-premises identity environment, and prepare the directory for cloud synchronization.
+
+### Microsoft Entra Administration
+
+Developed familiarity with the Microsoft Entra Admin Center for cloud identity management, user verification, and hybrid identity monitoring.
+
+### Microsoft Entra Connect Configuration
+
+Installed and configured Microsoft Entra Connect Sync to establish synchronization between on-premises Active Directory and Microsoft Entra ID.
+
+### Identity Synchronization
+
+Configured and validated synchronization of on-premises user identities to the cloud, demonstrating understanding of directory synchronization workflows.
+
+### Identity and Access Management (IAM) Fundamentals
+
+Developed practical experience with identity lifecycle concepts including user synchronization, centralized identity management, cloud authentication services, and hybrid access control.
+
+### Administrative Authentication Workflows
+
+Used both Microsoft Entra Global Administrator credentials and on-premises domain administrative credentials to securely configure identity synchronization between environments.
+
+### Remote Server Administration
+
+Used Remote Desktop Protocol (RDP) to remotely access and manage the Windows Server environment hosting Active Directory services.
+
+### Cloud Infrastructure Familiarity
+
+Worked within Microsoft Azure virtual machine environments to support identity infrastructure deployment and hybrid cloud integration.
+
+### Validation and Troubleshooting
+
+Verified successful synchronization by comparing on-premises Active Directory users with synchronized Microsoft Entra ID identities, confirming proper hybrid functionality.
+
+### Technical Documentation
+
+Documented hybrid identity configuration, synchronization workflows, and validation procedures using structured technical documentation and screenshots.
